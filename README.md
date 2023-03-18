@@ -14,6 +14,9 @@ then it adds to **x** and **y** a random number integer from -1 to 1
 
 to avoid errors it will detect when the **x** is smaller than 0 it will add ___width___ to **x**. Or if it is bigger than the (___width___ - 1) it will subtract the ___width___. And **y** is the same as **x** but replaces ___width___ with ___height___
 
+### Python
+In python version it a bit more complicated because i use multithread to make it a bit faster and able to run multiple at same time
+
 ## Program Location
 C++:randpxl\x64\Debug
 
