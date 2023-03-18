@@ -3,8 +3,9 @@
 My first C++ program.
 It prints a pixel at a random position and random colour
 
+There are 2 variants C++ and Python
+
 ## The way it moves:
-___width___ = 1900
 
 it start at **x** = 0 and **y** = 0
 
@@ -16,6 +17,6 @@ to avoid errors it will detect when the **x** is smaller than 0 it will add ___w
 ## Program Location
 C++:randpxl\x64\Debug
 
-Python:
+Python:\
 
 <sup>I made this before using TI-BASIC in TI-84 Plus CE and Python</sup>
